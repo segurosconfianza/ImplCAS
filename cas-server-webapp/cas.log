@@ -1,0 +1,2 @@
+2015-03-11 20:33:29,615 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2015-03-11 20:33:31,000 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
