@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.confianza.co</groupId>
-	<artifactId>CAS</artifactId>
+	<artifactId>IConfianza</artifactId>
 	<packaging>war</packaging>
 
 	<dependencies>
@@ -95,7 +95,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-jdbc</artifactId>
-			<version>3.2.8.RELEASE</version>
+			<version>3.2.13.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework</groupId>
